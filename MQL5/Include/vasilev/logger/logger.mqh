@@ -40,4 +40,4 @@ public:
 
 void Logger::log(const string& msg){
    Print(msg);
-}
+};

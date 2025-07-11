@@ -1,2 +1,6 @@
 # mql5-logger
-logger for mt5
+## Описание
+
+## Примеры работы
+- Подключить в проект библиотеку: `#include <vasilev/logger/logger.mqh>`
+- В коде использовать: `LOG("message")`
